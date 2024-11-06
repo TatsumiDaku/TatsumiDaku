@@ -8,7 +8,6 @@
 <img class=" imga " src="https://media1.giphy.com/media/IBawXRqkcH4ALM4ets/giphy.webp?cid=ecf05e47vi5dc01lzpz3c2oifv2x2rublnq9mxgstsquaxw6&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
 <img class=" imga " src="https://media2.giphy.com/media/8XksvbhGUWKl2/giphy.webp?cid=ecf05e47guxdzujfcykz8ms7ebngt8v422qiurrjn2kzhdp9&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="90px " height="100" >
 
-
 <img class=" imga " src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWoxOXFraWw2bzZ3amoxNnk5ZDlvdXo3MTRjOGFuZm5wbnEyd243dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j3OL6mSc2FeV0UHMDg/200.webp" width="428px " height="200" >
 
 
@@ -40,14 +39,6 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 
-
-
-<style>   
-.imga {
-backdropfilter; blur(5px); 
-box-shadow: 12px 12px 0 #000; 
-border: 6px solid #333 ;
-}
 
 
 
