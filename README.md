@@ -1,4 +1,4 @@
-## Hola!!! bienvenid@ a mi Github Soy TatsumiBernal 👋😄
+##Hello!!! Welcome to my Github I'm tatsumiBernal 👋😄
 ![Header](github-header-image.png)
 <img class=" imga " src="https://media3.giphy.com/media/39BEINr27NNo9FnRAD/giphy.webp?cid=ecf05e473o6oaf8ml5m58yn7h8coa98hrxdgzzigpcdlkdrz&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" ><img class=" imga " src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHWzPe1dPgkEj2UXZb/giphy.webp" width="100px " height="100" >
 <img class=" imga " src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BDSZj7aLlvE7MXa90V/giphy.webp" width="100px " height="100" >
@@ -17,23 +17,24 @@
 <img class=" imga " src="https://media2.giphy.com/media/7eUfR3hhYgfdFC3sw1/giphy.webp?cid=ecf05e47famjwgrzjrlomqlz4gxt47llx1isbynt07p5dqem&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
 
 
-🚀 Joven Desarrollador Full Stack en Evolución
 
-👋 ¡Hola! Soy un desarrollador apasionado por crear soluciones digitales💻 
+🚀 Young Full Stack Developer in Evolution
 
-📚 Constantemente aprendiendo y mejorando mis habilidades
-🎯 Enfocado en escribir código limpio y eficiente
-🌱 Creciendo cada día como desarrollador
+👋 Hi! I'm a developer passionate about creating digital solutions 💻
 
-⚡ Comprometido con:
-   • Buenas prácticas de programación
-   • Desarrollo de software escalable
-   • Aprendizaje continuo
+📚 Constantly learning and improving my skills
+🎯 Focused on writing clean and efficient code
+🌱 Growing every day as a developer
 
-🔍 Buscando oportunidades para colaborar en proyectos innovadores
-📫 Abierto a nuevos retos y conexiones profesionales
+⚡ Committed to:
+   • Good programming practices
+   • Scalable software development
+   • Continuous learning
 
-"El código es como el humor: cuando tienes que explicarlo, es malo" JAJA?💭
+🔍 Looking for opportunities to collaborate on innovative projects
+📫 Open to new challenges and professional connections
+
+"Code is like humor: when you have to explain it, it's bad" LOL HAHA? 💭
 
 ![stats](https://github-readme-stats.vercel.app/api?username=tatsumidaku&show_icons=true&theme=shadow_red)
 
