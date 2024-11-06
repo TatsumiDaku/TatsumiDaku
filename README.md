@@ -1,4 +1,5 @@
 ### Hola bienvenid@ al Github de Tatsumi 👋😄
+![Header](github-header-image.png)
 <img class=" imga " src="https://media3.giphy.com/media/39BEINr27NNo9FnRAD/giphy.webp?cid=ecf05e473o6oaf8ml5m58yn7h8coa98hrxdgzzigpcdlkdrz&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" ><img class=" imga " src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHWzPe1dPgkEj2UXZb/giphy.webp" width="100px " height="100" >
 <img class=" imga " src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BDSZj7aLlvE7MXa90V/giphy.webp" width="100px " height="100" >
 <img class=" imga " src="https://media1.giphy.com/media/gm847x3P3bJFhmwhxT/200.webp?cid=790b7611b7519cjl1lle48iysiljoxhjt7vmnmcwi63dgaiq&ep=v1_gifs_search&rid=200.webp&ct=g" width="100px " height="100" >
@@ -14,6 +15,7 @@
 <img class=" imga " src="https://media0.giphy.com/media/cPZdap8PGhSvABr6xW/giphy.webp?cid=ecf05e47dx0bom11866rbbwue132zggbvt4bwyujhq67l61i&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
 <img class=" imga " src="https://media4.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.webp?cid=ecf05e47dx0bom11866rbbwue132zggbvt4bwyujhq67l61i&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
 <img class=" imga " src="https://media2.giphy.com/media/7eUfR3hhYgfdFC3sw1/giphy.webp?cid=ecf05e47famjwgrzjrlomqlz4gxt47llx1isbynt07p5dqem&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
+
 
 <img class=" imga " src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm9mNW0yMHk4MDkzaTQybDE2MnhxbzVyNmp2cGo0c3RsenpkZTZuYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ckr4W2ppxPBeIF8dx4/giphy.webp" width="900px " height="250">
 
