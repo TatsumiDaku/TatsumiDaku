@@ -1,4 +1,4 @@
-### Hola bienvenid@ al Github de Tatsumi 👋😄
+## Hola!!! bienvenid@ a mi Github Soy TatsumiBernal 👋😄
 ![Header](github-header-image.png)
 <img class=" imga " src="https://media3.giphy.com/media/39BEINr27NNo9FnRAD/giphy.webp?cid=ecf05e473o6oaf8ml5m58yn7h8coa98hrxdgzzigpcdlkdrz&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" ><img class=" imga " src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHWzPe1dPgkEj2UXZb/giphy.webp" width="100px " height="100" >
 <img class=" imga " src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BDSZj7aLlvE7MXa90V/giphy.webp" width="100px " height="100" >
@@ -16,7 +16,28 @@
 <img class=" imga " src="https://media4.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.webp?cid=ecf05e47dx0bom11866rbbwue132zggbvt4bwyujhq67l61i&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
 <img class=" imga " src="https://media2.giphy.com/media/7eUfR3hhYgfdFC3sw1/giphy.webp?cid=ecf05e47famjwgrzjrlomqlz4gxt47llx1isbynt07p5dqem&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
 
-### Skills <p align="right">
+
+🚀 Joven Desarrollador Full Stack en Evolución
+
+👋 ¡Hola! Soy un desarrollador apasionado por crear soluciones digitales💻 
+
+📚 Constantemente aprendiendo y mejorando mis habilidades
+🎯 Enfocado en escribir código limpio y eficiente
+🌱 Creciendo cada día como desarrollador
+
+⚡ Comprometido con:
+   • Buenas prácticas de programación
+   • Desarrollo de software escalable
+   • Aprendizaje continuo
+
+🔍 Buscando oportunidades para colaborar en proyectos innovadores
+📫 Abierto a nuevos retos y conexiones profesionales
+
+"El código es como el humor: cuando tienes que explicarlo, es malo" JAJA?💭
+
+
+
+## Skills <p align="right">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><br>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><br>
@@ -44,23 +65,7 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 
-🚀 Joven Desarrollador Full Stack en Evolución
 
-👋 ¡Hola! Soy un desarrollador apasionado por crear soluciones digitales💻 
-
-📚 Constantemente aprendiendo y mejorando mis habilidades
-🎯 Enfocado en escribir código limpio y eficiente
-🌱 Creciendo cada día como desarrollador
-
-⚡ Comprometido con:
-   • Buenas prácticas de programación
-   • Desarrollo de software escalable
-   • Aprendizaje continuo
-
-🔍 Buscando oportunidades para colaborar en proyectos innovadores
-📫 Abierto a nuevos retos y conexiones profesionales
-
-"El código es como el humor: cuando tienes que explicarlo, es malo" JAJA?💭
 
 <!--
 **TatsumiDaku/TatsumiDaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
