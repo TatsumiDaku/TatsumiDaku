@@ -35,8 +35,9 @@
 
 "El código es como el humor: cuando tienes que explicarlo, es malo" JAJA?💭
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsumidaku&show_icons=true&theme=dracula)
+![stats](https://github-readme-stats.vercel.app/api?username=tatsumidaku&show_icons=true&theme=shadow_red)
 
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsumidaku&layout=compact)
 
 ## Skills <p align="right">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><br>
