@@ -5,8 +5,14 @@
 <img class=" imga " src="https://media1.giphy.com/media/3o6ZsZwsU65E0qcok8/giphy.webp?cid=ecf05e47vi5dc01lzpz3c2oifv2x2rublnq9mxgstsquaxw6&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
 <img class=" imga " src="https://media1.giphy.com/media/IBawXRqkcH4ALM4ets/giphy.webp?cid=ecf05e47vi5dc01lzpz3c2oifv2x2rublnq9mxgstsquaxw6&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
 <img class=" imga " src="https://media2.giphy.com/media/8XksvbhGUWKl2/giphy.webp?cid=ecf05e47guxdzujfcykz8ms7ebngt8v422qiurrjn2kzhdp9&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="90px " height="100" >
+<img class=" imga " src="https://media2.giphy.com/media/8XksvbhGUWKl2/giphy.webp?cid=ecf05e47guxdzujfcykz8ms7ebngt8v422qiurrjn2kzhdp9&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="90px " height="100" >
+<img class=" imga " src="https://media2.giphy.com/media/8XksvbhGUWKl2/giphy.webp?cid=ecf05e47guxdzujfcykz8ms7ebngt8v422qiurrjn2kzhdp9&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="90px " height="100" >
+<img class=" imga " src="https://media2.giphy.com/media/8XksvbhGUWKl2/giphy.webp?cid=ecf05e47guxdzujfcykz8ms7ebngt8v422qiurrjn2kzhdp9&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="90px " height="100" >
+<img class=" imga " src="https://media2.giphy.com/media/8XksvbhGUWKl2/giphy.webp?cid=ecf05e47guxdzujfcykz8ms7ebngt8v422qiurrjn2kzhdp9&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="90px " height="100" >
+<img class=" imga " src="https://media2.giphy.com/media/8XksvbhGUWKl2/giphy.webp?cid=ecf05e47guxdzujfcykz8ms7ebngt8v422qiurrjn2kzhdp9&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="90px " height="100" >
 
 <img class=" imga " src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWoxOXFraWw2bzZ3amoxNnk5ZDlvdXo3MTRjOGFuZm5wbnEyd243dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/j3OL6mSc2FeV0UHMDg/200.webp" width="428px " height="200" >
+
 
 
 ### Skills <p align="right">
