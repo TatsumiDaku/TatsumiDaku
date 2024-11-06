@@ -35,6 +35,7 @@
 
 "El código es como el humor: cuando tienes que explicarlo, es malo" JAJA?💭
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=tatsumidaku&show_icons=true&theme=dracula)
 
 
 ## Skills <p align="right">
