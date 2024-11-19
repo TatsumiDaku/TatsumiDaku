@@ -38,7 +38,7 @@
 
 ![stats](https://github-readme-stats.vercel.app/api?username=tatsumidaku&show_icons=true&theme=shadow_red)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsumidaku&layout=compact&theme=shadow_red)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsumidaku&layout=compact&theme=red)
 
 ## Skills
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><br>
