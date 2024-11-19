@@ -1,4 +1,4 @@
-##Hello!!! Welcome to my Github I'm tatsumiBernal 👋😄
+## Welcome to my Github I'm tatsumiBernal 👋😄
 ![Header](github-header-image.png)
 <img class=" imga " src="https://media3.giphy.com/media/39BEINr27NNo9FnRAD/giphy.webp?cid=ecf05e473o6oaf8ml5m58yn7h8coa98hrxdgzzigpcdlkdrz&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" ><img class=" imga " src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHWzPe1dPgkEj2UXZb/giphy.webp" width="100px " height="100" >
 <img class=" imga " src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BDSZj7aLlvE7MXa90V/giphy.webp" width="100px " height="100" >
