@@ -22,23 +22,7 @@
 
 👋 Hi! I'm a developer passionate about creating digital solutions 💻
 
-📚 Constantly learning and improving my skills
-🎯 Focused on writing clean and efficient code
-🌱 Growing every day as a developer
-
-⚡ Committed to:
-   • Good programming practices
-   • Scalable software development
-   • Continuous learning
-
-🔍 Looking for opportunities to collaborate on innovative projects
-📫 Open to new challenges and professional connections
-
-"Code is like humor: when you have to explain it, it's bad" LOL HAHA? 💭
-
-![stats](https://github-readme-stats.vercel.app/api?username=tatsumidaku&show_icons=true&theme=shadow_red)
-
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsumidaku&layout=compact&theme=red)
+![stats](https://github-readme-stats.vercel.app/api?username=tatsumidaku&show_icons=true&theme=shadow_red) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsumidaku&layout=compact&theme=red)
 
 ## Skills
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><br>
