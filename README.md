@@ -1,4 +1,5 @@
 ## HELLO!!! Welcome to my Github I'm tatsumiBernal 👋😄
+
 ![Header](github-header-image.png)
 <img class=" imga " src="https://media3.giphy.com/media/39BEINr27NNo9FnRAD/giphy.webp?cid=ecf05e473o6oaf8ml5m58yn7h8coa98hrxdgzzigpcdlkdrz&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" ><img class=" imga " src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uHWzPe1dPgkEj2UXZb/giphy.webp" width="100px " height="100" >
 <img class=" imga " src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc1MTljamwxbGxlNDhpeXNpbGpveGhqdDd2bW5tY3dpNjNkZ2FpcSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BDSZj7aLlvE7MXa90V/giphy.webp" width="100px " height="100" >
@@ -17,12 +18,12 @@
 <img class=" imga " src="https://media2.giphy.com/media/7eUfR3hhYgfdFC3sw1/giphy.webp?cid=ecf05e47famjwgrzjrlomqlz4gxt47llx1isbynt07p5dqem&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px " height="100" >
 
 
-
 🚀 Young Full Stack Developer in Evolution
 
 👋 Hi! I'm a developer passionate about creating digital solutions 💻
 
 ![stats](https://github-readme-stats.vercel.app/api?username=tatsumidaku&show_icons=true&theme=shadow_red) ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsumidaku&layout=compact&theme=red)
+
 
 ## Skills
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><br>
@@ -52,19 +53,3 @@
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 
-
-
-<!--
-**TatsumiDaku/TatsumiDaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
