@@ -19,7 +19,7 @@
 <img class="imga" src="https://media1.giphy.com/media/sLq0FbsrbGZhreiVJK/giphy.webp?cid=ecf05e47famjwgrzjrlomqlz4gxt47llx1isbynt07p5dqem&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px" height="100">
 <img class="imga" src="https://media0.giphy.com/media/cPZdap8PGhSvABr6xW/giphy.webp?cid=ecf05e47dx0bom11866rbbwue132zggbvt4bwyujhq67l61i&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px" height="100">
 <img class="imga" src="https://media4.giphy.com/media/ViHG6N1Zhq1A7tDwbF/giphy.webp?cid=ecf05e47dx0bom11866rbbwue132zggbvt4bwyujhq67l61i&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px" height="100">
-
+<img class="imga" src="https://media2.giphy.com/media/7eUfR3hhYgfdFC3sw1/giphy.webp?cid=ecf05e47famjwgrzjrlomqlz4gxt47llx1isbynt07p5dqem&ep=v1_gifs_search&rid=giphy.webp&ct=g" width="100px" height="100">
 
 </div>
 
@@ -35,11 +35,12 @@
 
 <div align="center">
 
-![Stats](https://streak-stats.demolab.com/?user=TatsumiDaku&theme=radical&background=0D1117&border=FF6B6B&stroke=FF6B6B&fire=FF6B6B&ring=FF6B6B&currStreakNum=FF6B6B&sideNums=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=FF6B6B)
-![Stats](https://github-readme-activity-graph.vercel.app/graph?username=TatsumiDaku&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area_color=ff6b6b30&area=true&hide_border=false)
+![Streak](https://streak-stats.demolab.com/?user=TatsumiDaku&theme=radical&background=0D1117&border=FF6B6B&stroke=FF6B6B&fire=FF6B6B&ring=FF6B6B&currStreakNum=FF6B6B&sideNums=FF6B6B&currStreakLabel=FF6B6B&sideLabels=FF6B6B&dates=FF6B6B)
 <br>
-![Repos](https://github-readme-stats.vercel.app/api?username=TatsumiDaku&show_icons=true&theme=radical&bg_color=0d1117&border_color=ff6b6b&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TatsumiDaku&layout=donut&theme=radical&bg_color=0d1117&border_color=ff6b6b&title_color=ff6b6b&text_color=ffffff&hide_progress=false)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=TatsumiDaku&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&area_color=ff6b6b30&area=true&hide_border=false)
+<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=TatsumiDaku&show_icons=true&theme=radical&bg_color=0d1117&border_color=ff6b6b&title_color=ff6b6b&text_color=ffffff&icon_color=ff6b6b&hide_rank=false)
+![Trophies](https://github-profile-trophy.vercel.app/?username=TatsumiDaku&theme=radical&column=-1&margin-w=15&no-bg=true)
 
 </div>
 
@@ -87,17 +88,15 @@
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redis-colored.svg" width="36" height="36" alt="Redis" /></a>
-<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sqlite-colored.svg" width="36" height="36" alt="SQLite" /></a>
+<a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/prisma-colored.svg" width="36" height="36" alt="Prisma" /></a>
 
 ### ☁️ Cloud & DevOps
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gcp-colored.svg" width="36" height="36" alt="Google Cloud Platform" /></a>
-<a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" width="36" height="36" alt="Microsoft Azure" /></a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kubernetes-colored.svg" width="36" height="36" alt="Kubernetes" /></a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jenkins-colored.svg" width="36" height="36" alt="Jenkins" /></a>
-<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/terraform-colored.svg" width="36" height="36" alt="Terraform" /></a>
+<a href="https://gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gitlab-colored.svg" width="36" height="36" alt="GitLab" /></a>
+<a href="https://about.gitlab.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/circleci-colored.svg" width="36" height="36" alt="CircleCI" /></a>
 
 ### 🎨 Design & Tools
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
@@ -106,7 +105,6 @@
 <a href="https://framer.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/framer-colored.svg" width="36" height="36" alt="Framer" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://wordpress.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" width="36" height="36" alt="Wordpress" /></a>
-<a href="https://www.obsidian.md/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/obsidian-colored.svg" width="36" height="36" alt="Obsidian" /></a>
 
 ---
 
